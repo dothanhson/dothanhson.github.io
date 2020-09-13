@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dothanhson.github.io/</loc>
+    <lastmod>2020-09-12T15:13:12+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dothanhson.github.io/project/</loc>
+    <lastmod>2020-09-12T15:13:12+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dothanhson.github.io/project/recommend/</loc>
+    <lastmod>2020-09-12T15:13:12+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dothanhson.github.io/authors/</loc>
   </url>
   
   <url>
     <loc>https://dothanhson.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dothanhson.github.io/</loc>
   </url>
   
   <url>
